@@ -28,3 +28,5 @@ Les études de cas détaillées sont ici — architecture, décisions, ce qui a 
 ---
 
 📫 **jerbarth@gmail.com**
+
+📫 **jerbarth@gmail.com** · [LinkedIn](https://www.linkedin.com/in/j%C3%A9r%C3%B4me-barth%C3%A9lemy-12431630a/)
