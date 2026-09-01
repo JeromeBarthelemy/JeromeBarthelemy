@@ -26,9 +26,3 @@ Les études de cas détaillées sont ici — architecture, décisions, ce qui a 
 | **Agent Smith** | Harnais d'agent LLM : le modèle écrit du Python exécuté dans un interpréteur restreint, sous plafonds stricts d'itérations, de tokens et de temps. Agnostique du fournisseur. Évalué sur MBPP et SWE-bench. | Python, Docker |
 | **RAG against the machine** | Recherche augmentée sur la base de code vLLM : ingestion, index, réponses sourcées. Qualité mesurée en recall@k, 43 tests, mypy strict. | Python |
 | **Inception** | Infrastructure WordPress conteneurisée : NGINX TLS unique point d'entrée, MariaDB, Redis, huit images écrites à la main depuis alpine. | Docker, NGINX, MariaDB |
-
----
-
-📫 **jerbarth@gmail.com**
-
-📫 **jerbarth@gmail.com** · [LinkedIn](https://www.linkedin.com/in/jerome-barthelemy/)
