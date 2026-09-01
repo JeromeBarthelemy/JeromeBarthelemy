@@ -1,6 +1,6 @@
 ## Jérôme Barthélemy
 
-Développeur backend — **Go**, **Python**, **C**.
+Développeur backend — **Python**, **C**, **Java**, **Go**.
 Docteur en physique, vingt ans à enseigner les sciences puis la NSI, aujourd'hui à
 plein temps à l'[École 42](https://42nice.fr) pour en faire mon métier.
 
@@ -8,7 +8,7 @@ J'aime les systèmes qui doivent rester debout : serveurs concurrents, protocole
 réseau, données qui ne doivent pas se perdre. J'écris des tests parce que j'ai
 corrigé trop de copies pour croire un programme sur parole.
 
-**Ce que j'utilise** — Go · Python · C · SQL · Docker & Compose · NGINX · Linux · Git
+**Ce que j'utilise** — Python · C · Java · Go · SQL · Docker & Compose · NGINX · Linux · Git
 
 [CodinGame](https://www.codingame.com/profile/e0b93d7a66709a1f5641c455a0c225221602724) — 1978ᵉ sur 1,09 M de joueurs classés, l'essentiel des points en arènes de bots multijoueurs et en optimisation.
 
