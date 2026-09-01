@@ -10,6 +10,8 @@ corrigé trop de copies pour croire un programme sur parole.
 
 **Ce que j'utilise** — Go · Python · C · SQL · Docker & Compose · NGINX · Linux · Git
 
+[CodinGame](https://www.codingame.com/profile/e0b93d7a66709a1f5641c455a0c225221602724) — 1978ᵉ sur 1,09 M de joueurs classés, l'essentiel des points en arènes de bots multijoueurs et en optimisation.
+
 ---
 
 ### Projets sélectionnés
