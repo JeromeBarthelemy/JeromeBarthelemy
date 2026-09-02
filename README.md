@@ -2,14 +2,14 @@
 
 Développeur backend : **Python**, **C**, **Java**, **Go**.
 
-**Docteur en physique**, j'ai passé vingt ans à enseigner la physique-chimie puis l'informatique et les sciences numériques, aujourd'hui je suis à
+**Docteur en physique**, j'ai passé vingt ans à enseigner la physique-chimie puis l'informatique et les sciences numériques; aujourd'hui je suis à
 plein temps à l'[École 42](https://42nice.fr) pour en faire mon métier.
 
 Avant même ma reconversion, je m'investissais déjà sur mon temps libre :
 - en **algorithmie** depuis 2021 : [CodinGame](https://www.codingame.com/profile/e0b93d7a66709a1f5641c455a0c225221602724), 1978ᵉ sur 1,09 M de joueurs classés, l'essentiel des points en arènes de bots multijoueurs et en optimisation.
-- en **robotique** depuis 2019 : [Robotique CIV](https://ftc-civ.gitlab.io/index.html) en tant que président et mentor, je m'occupe du club de robotique du lycée international de Valbonne, avec lequel nous participons aux compétitions internationales de robotique organisées par [FIRST](https://www.firstinspires.org/programs/ftc/).
+- en **robotique** depuis 2019 : en tant que président et mentor, je m'occupe du club de robotique du lycée international de Valbonne [Robotique CIV](https://ftc-civ.gitlab.io/index.html), avec lequel nous participons aux compétitions internationales de robotique organisées par [FIRST](https://www.firstinspires.org/programs/ftc/).
 
-**Autres outils utilisés :** Docker & Compose · HTML/CSS/Javascript · Linux · Git · SQL
+**Autres outils utilisés :** Docker & Compose · HTML/CSS/JavaScript · Linux · Git · SQL
 
 
 ---
