@@ -8,7 +8,7 @@ J'ai quitté l'Éducation nationale en septembre 2026 pour me consacrer au déve
 
 Avant même ma reconversion, je m'investissais déjà sur mon temps libre :
 - en **algorithmie** depuis 2021 : [CodinGame](https://www.codingame.com/profile/e0b93d7a66709a1f5641c455a0c225221602724), 1978ᵉ sur 1,09 M de joueurs classés, l'essentiel des points en arènes de bots multijoueurs et en optimisation.
-- en **robotique** depuis 2010, et dans les compétitions [FIRST](https://www.firstinspires.org/programs/ftc/) depuis 2019 : président et mentor du club de robotique du lycée international de Valbonne, [Robotique CIV](https://ftc-civ.gitlab.io/index.html), une association de 60 lycéens en quatre équipes, encadrés par une dizaine de mentors adultes, professeurs et ingénieurs de nos entreprises partenaires.
+- en **robotique** depuis 2010, et dans les compétitions [FIRST](https://www.firstinspires.org/programs/ftc/) depuis 2019 : co-fondateur, président et mentor du club de robotique du lycée international de Valbonne, [Robotique CIV](https://ftc-civ.gitlab.io/index.html) — une association que nous avons constituée en 2020 et qui réunit aujourd'hui 60 lycéens en quatre équipes, encadrés par une dizaine de mentors adultes, professeurs et ingénieurs de nos entreprises partenaires.
 
 **Autres outils utilisés :** Docker & Compose · HTML/CSS/JavaScript · Linux · Git · SQL
 
